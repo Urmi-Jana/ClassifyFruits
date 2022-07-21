@@ -1,3 +1,3 @@
-#Classify fruits with K Nearest Neighbors and a Decision Tree using sklearn and pandas
+Classify fruits with K Nearest Neighbors and a Decision Tree using sklearn and pandas
 References:
 Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition by Susan Li (https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
